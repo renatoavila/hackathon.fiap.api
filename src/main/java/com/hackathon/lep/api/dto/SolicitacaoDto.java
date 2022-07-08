@@ -11,8 +11,7 @@ public class SolicitacaoDto  {
 
 	private String email;	
 
-	private String reclamacao;
-	
-	private String urlImagem;
+	private String texto;
+	 
 
 }
